@@ -22,10 +22,10 @@ const client = new Client({
 const TOKEN = process.env.DISCORD_TOKEN;
 
 // حط آيدي حسابك هنا
-const OWNER_ID = "1382482968752291900";
+const OWNER_ID = "987100237858496512";
 
 // حط آيدي السيرفر هنا
-const GUILD_ID = "1382482968752291900";
+const GUILD_ID = "1122914971395821639";
 
 const VOICE_CHANNEL_ID = "1558551065513697340";
 
