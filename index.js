@@ -27,7 +27,7 @@ const OWNER_ID = "987100237858496512";
 // حط آيدي السيرفر هنا
 const GUILD_ID = "1122914971395821639";
 
-const VOICE_CHANNEL_ID = "1558551065513697340";
+const VOICE_CHANNEL_ID = "1558820878492377238";
 
 // أمر /send
 const commands = [
